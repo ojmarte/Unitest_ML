@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+xgboost
+jinja2
+click
+pathlib
+boto3
+botocore
